@@ -1,0 +1,30 @@
+{
+"nome": "chat",
+"acoes": [
+    {
+        "nome": "iniciar",
+        "objetos": [
+            "steam"
+        ]
+    },
+    {
+        "nome": "fechar",
+        "objetos": [
+            "steam"
+        ]
+    },
+    {
+        "nome": "ligar",
+        "objetos": [
+            "gravador"
+        ]
+    },
+    {
+        "nome": "parar",
+        "objetos": [
+            "gravador"
+        ]
+    }
+   
+  ]
+}
